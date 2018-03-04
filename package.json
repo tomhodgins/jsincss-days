@@ -1,6 +1,6 @@
 {
   "name": "jsincss-days",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A days plugin for jsincss",
   "main": "index.js",
   "scripts": {
