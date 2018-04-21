@@ -1,4 +1,4 @@
-module.exports = (days, stylesheet) => {
+function days(days, stylesheet) {
 
   const day = ['sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday']
 
